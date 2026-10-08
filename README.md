@@ -113,4 +113,15 @@ timeline
   <img src="https://komarev.com/ghpvc/?username=seawolf-seno&color=00B4D8&style=flat-square&label=Profile+views" alt="Profile views"/>
 </p>
 
+## 🐍 Contribution Snake
+
+<!-- Generated daily by .github/workflows/snake.yml using Platane/snk -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/seawolf-seno/seawolf-seno/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/seawolf-seno/seawolf-seno/output/github-snake.svg" />
+    <img alt="Snake eating my GitHub contribution grid" src="https://raw.githubusercontent.com/seawolf-seno/seawolf-seno/output/github-snake.svg" />
+  </picture>
+</p>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,100:0B3D91&height=120&section=footer" width="100%" alt="footer wave"/>
