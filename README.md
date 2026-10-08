@@ -89,15 +89,14 @@ timeline
 
 | 🏂 Snowboarding | 🌊 Surfing | 🚵 Mountain Biking | 🏈 Athletics |
 |:---:|:---:|:---:|:---:|
-| Winter mode | South Bay vibes | Newest obsession | Once a WR, always a WR |
 
 ### 🎬 My Top 5 Movies
 
-1. **3 Idiots** 🎓
+1. 🔒 **CLASSIFIED** — *seniors in my class find out*
 2. **Spider-Man: Into the Spider-Verse** 🕷️
 3. **Big Hero 6** 🤖
 4. **The Sandlot** ⚾
-5. **Star Wars: The Empire Strikes Back** 🌌
+5. **Star Wars: The Empire Strikes Back** 🌌 *(or is it actually The Last Jedi?)*
 
 ---
 
